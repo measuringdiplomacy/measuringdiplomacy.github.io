@@ -13,6 +13,8 @@ title: ""
 
 **Data source(s)**: Association for Diplomatic Studies and Training. 
 
-**Data publicly available?** Not yet; contact author if interested.
+**Data publicly available?** Yes: see [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SQSTSC).
 
-**Associated publication(s)**: Thrall, C. 2023. [Informational Lobbying and Commerial Diplomacy](https://www.calvinthrall.com/assets/amcham_adst_0.5.0.pdf). Working paper.
+**Suggested citation**: Thrall, Calvin. 2025. [Informational Lobbying and Commerial Diplomacy](https://www.calvinthrall.com/assets/t4_ajps.pdf). *American Journal of Political Science* 69(3): 1147-1162.
+
+**Associated publications**:
