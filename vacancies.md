@@ -15,4 +15,6 @@ title: ""
 
 **Data publicly available?** Yes; see [dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZTWOYY).
 
-**Associated publication(s)**: Malis, M. (2021). Conflict, Cooperation, and Delegated Diplomacy. International Organization, 75(4), 1018-1057. [DOI](doi:10.1017/S0020818321000102).
+**Suggested citation**: Malis, Matt. (2021). Conflict, Cooperation, and Delegated Diplomacy. International Organization, 75(4), 1018-1057. [DOI](doi:10.1017/S0020818321000102).
+
+**Associated publications**:
