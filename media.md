@@ -5,6 +5,8 @@ title: ""
 
 ## Media mentions
 
+#### To request an interview regarding our data or U.S. diplomacy more broadly, please email c [dot] thrall [at] columbia [dot] edu or malis [at] nyu [dot] edu.
+
 [How the US shaped the world: 250 years of power and policies](https://www.dw.com/en/how-the-us-shaped-the-world-250-years-of-power-and-policies/a-77722464). _Deutsche Welle_, 1 July 2026.
 - republishing: [Yahoo! News UK](https://uk.news.yahoo.com/us-shaped-world-250-years-075200371.html), [Vreme](https://vreme.com/en/svet/sad-donald-tramp-nezavisnost/), [UOL](https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/07/04/como-a-politica-externa-dos-eua-mudou-ao-longo-de-250-anos.htm), [O Povo](https://www.opovo.com.br/noticias/mundo/2026/07/05/como-a-politica-externa-dos-eua-mudou-ao-longo-de-250-anos.html), etc
 
