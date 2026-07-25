@@ -3,7 +3,7 @@ format: page
 title: ""
 ---
 
-## Key Officers of the U.S. Foreign Service (KOFS) (1966-2017)
+## Key Officers of U.S. Foreign Service Posts (KOFSP) (1966-2017)
 
 **Authors**: David Lindsey, Matt Malis, Calvin Thrall
 
@@ -15,4 +15,4 @@ title: ""
 
 **Data publicly available?** Yes: disaggregated and country-year datasets available on the [MAD dataverse](https://doi.org/10.7910/DVN/3IPF8Y).
 
-**Associated publication(s)**: Lindsey, D, Malis, M, and Thrall, C. 2025. [Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](https://www.calvinthrall.com/assets/lmt_13june2025.pdf). MAD Working Paper 01, Measuring American Diplomacy Project.
+**Associated publication(s)**: Lindsey, D, Malis, M, and Thrall, C. 2026. [Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](https://www.calvinthrall.com/assets/kofsp.pdf). Working Paper.
