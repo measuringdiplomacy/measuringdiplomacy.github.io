@@ -7,4 +7,4 @@ title: ""
 
 [**Matt Malis**](https://mattmalis.github.io/) is an Assistant Professor of Political Science at Texas A&M University. His research focuses on how the delegation of authority within government shapes the conduct of diplomacy. He can be contacted at malis [at] nyu [dot] edu.
 
-[**Calvin Thrall**](https://www.calvinthrall.com/) is an Assistant Professor of Political Science at Columbia University, where he is also associated with the Politics and the Global Economy (PaGE) Lab and the Saltzman Institute. He studies the politics of business, diplomacy, and global governance. He can be contacted at cthrall [at] columbia [dot] edu.
+[**Calvin Thrall**](https://www.calvinthrall.com/) is an Assistant Professor of Political Science at Columbia University, where he is also associated with the Politics and the Global Economy (PaGE) Lab and the Saltzman Institute. He studies the politics of business, diplomacy, and global governance. He can be contacted at c [dot] thrall [at] columbia [dot] edu.
